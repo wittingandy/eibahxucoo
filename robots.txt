@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://naigheequi.highlightsapp.net/sitemap.xml
